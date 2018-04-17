@@ -20,7 +20,7 @@ public class ClasePunto2 {
         Scanner entrada = new Scanner(System.in);
         int a,b;
         
-        System.out.print("Ingrese un valor para x: ");
+        System.out.print("Ingrese un valor int para x: ");
         a = entrada.nextInt();
         
          System.out.print("Ingrese un valor para y: ");
